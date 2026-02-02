@@ -1,0 +1,17 @@
+{
+  "name": "cucumberproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:cucumber" : "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.6.0",
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}

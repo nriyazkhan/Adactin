@@ -40,3 +40,5 @@ export class SecondPage {
         await this.searchBtn.click();
     }
 }
+
+//--riyazkhan--
